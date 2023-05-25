@@ -1,5 +1,20 @@
-﻿# url-shortener
- 
+# URL-shortener
+Name of Project- URL Shortener
+
+Description- URL shortener is a website that reduces the length of your URL (Uniform Resource Locator). The idea is to minimize the web page address into something that's easier to remember and track.
+
+Programming Languages- HTML, CSS, JavaScript,PHP
+
+Role: Web Development Intern
+
+IDE: VS Code
+
+Server:  XMAPP/WAMPP
+
+Database: MySQL
+
+# created by
+Aishik Makur
 
 ### Low-level URL Standard API
 
